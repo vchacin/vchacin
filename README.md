@@ -2,7 +2,7 @@
 
 <!--
 **vchacin/vchacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Title](https://github.com/vchacin/vchacin/blob/main/title?raw=true)
+![Title](https://github.com/vchacin/vchacin/blob/main/title.gif)
 
 I'm a frontend web developer working with React, building my professional career in the IT area with startups dedicated to computer services.
 I have a passion for learning and sharing my knowledge with others as public as possible.
