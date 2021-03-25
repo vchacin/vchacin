@@ -1,4 +1,4 @@
-### Hi there, I'm Victoria 👋
+# Hi there, I'm Victoria 👋
 
 <!--
 **vchacin/vchacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
