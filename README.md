@@ -14,7 +14,7 @@ You can see what I am currently up to on [Vercel](https://vercel.com/dashboard/p
 
 <p align="left">
 <a href="https://codepen.io/vchacin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vchacin" height="30" width="40" /></a>
-<a href="https://twitter.com/uxvictora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uxvictora" height="30" width="40" /></a>
+<a href="https://twitter.com/uxvictoria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uxvictora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vchacin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vchacin" height="30" width="40" /></a>
 <a href="https://instagram.com/v.chacin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="v.chacin" height="30" width="40" /></a>
 <a href="https://dribbble.com/uxvictoria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="uxvictoria" height="30" width="40" /></a>
