@@ -6,7 +6,7 @@
 
 I'm a frontend web developer working with React, building my professional career in the IT area with startups dedicated to computer services.
 I have a passion for learning and sharing my knowledge with others as public as possible.
-Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+Some technologies I enjoy working with include ReactJS, JavaScript.
 
 You can see what I am currently up to on [Vercel](https://vercel.com/dashboard/projects).
 
