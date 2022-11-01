@@ -4,9 +4,7 @@
 **vchacin/vchacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![Title](https://github.com/vchacin/vchacin/blob/main/title.gif)
 
-I'm a frontend web developer working with React, building my professional career in the IT area with startups dedicated to computer services.
-I have a passion for learning and sharing my knowledge with others as public as possible.
-Some technologies I enjoy working with include ReactJS, JavaScript.
+I'm a front-end web developer working with React, building my professional career in IT with startups dedicated to computer services. I am passionate about learning and sharing my knowledge with others as publicly as possible. Some technologies I enjoy working with include ReactJS and JavaScript.
 
 You can see what I am currently up to on [Vercel](https://vercel.com/dashboard/projects).
 
